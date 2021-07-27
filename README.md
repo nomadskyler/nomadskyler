@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Skyler Bullard
-- 👀 I’m interested in ... data wrangling & visualization
-- 🌱 I’m currently learning ... data analysis, data wrangling, & data mining
-- 💞️ I’m looking to collaborate on ... retail business intelligence
+- 👀 I’m interested in ... data visualization
+- 🌱 I’m currently learning ... data wrangling, & data mining
+- 💞️ I’m looking to collaborate on ... business intelligence
 - 📫 How to reach me ... 
 
 <!---
