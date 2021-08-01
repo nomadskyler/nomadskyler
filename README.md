@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Skyler Bullard
-- 👀 I’m interested in ... data visualization
-- 🌱 I’m currently learning ... data wrangling, & data mining
+- 👀 I’m interested in ... business intelligence
+- 🌱 I’m currently learning ... SQL, EDA & Viz
 - 💞️ I’m looking to collaborate on ... business intelligence
 - 📫 How to reach me ... 
 
